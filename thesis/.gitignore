@@ -1,0 +1,27 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdy
+
+# Beamer/listings temporary files
+*.nav
+*.snm
+*.vrb
+
+# Ignore internal build PDF; the final copy lives at repo root
+BridgingBlackBoxes.pdf

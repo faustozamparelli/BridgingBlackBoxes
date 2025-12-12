@@ -26,3 +26,4 @@
 # Ignore all PDFs except the final compiled thesis
 *.pdf
 !BridgingBlackBoxes.pdf
+!Presentation.pdf
